@@ -1,0 +1,22 @@
+{
+  "name": "@piigo/tmdb",
+  "version": "0.0.0",
+  "description": "The Movie Database API wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulienLavocat/TMDB.git"
+  },
+  "author": "Julien Lavocat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulienLavocat/TMDB/issues"
+  },
+  "homepage": "https://github.com/JulienLavocat/TMDB#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
